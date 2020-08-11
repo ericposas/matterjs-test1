@@ -135,7 +135,3 @@ window.start = () => {
   }
 
 }
-
-// Example.airFriction()
-
-// export Example[Object.keys(Example)[0]]
